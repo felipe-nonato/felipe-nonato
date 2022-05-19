@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/a2/6d/72/a26d726461e24eb23d568d72d55596ce.jpg">
+<img src="https://instagram.fcpv20-1.fna.fbcdn.net/v/t51.2885-19/273017828_983516318922780_4409559611654859982_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcpv20-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=s9rQC9JIFFoAX98YXo0&edm=ALQROFkBAAAA&ccb=7-4&oh=00_AT8D_03Vm8dumwlqMvZaGXBNXXjxN8ZRMbBi7PXsQN9vSQ&oe=628CB3A6&_nc_sid=30a2ef">
 
 ### Hi 👋
 I am a computer engineering student looking for opportunities and collaboration on projects related to data science.
