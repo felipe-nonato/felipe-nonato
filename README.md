@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://i.pinimg.com/564x/a2/6d/72/a26d726461e24eb23d568d72d55596ce.jpg">
 
 ### Hi 👋
 I am a computer engineering student looking for opportunities and collaboration on projects related to data science.
