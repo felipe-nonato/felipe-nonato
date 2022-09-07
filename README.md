@@ -3,8 +3,8 @@
 
 ### Olá 👋
 Sou um estudante de Engenharia da Computação procurando por oportunidades e colaborção em projetos.
-- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento de jogos (além disso, estou aprimorando minhas habilidades de estruturas de dados e algoritmos regularmente).
-- 🌱 Atualmente estou aprendendo desenvolvimento web front-end usando o framework Angular.
+- 🔭 Atualmente estou trabalhando em desenvolvimento web (além disso, estou aprimorando minhas habilidades de estruturas de dados e algoritmos regularmente).
+- 🌱 Atualmente estou aprendendo desenvolvimento web front-end usando o framework React com Next JS.
 - 🤝 Estou procurando colaborar em projetos de data science e desenvolvimento web front-end. 
 
 <hr>
@@ -12,8 +12,8 @@ Sou um estudante de Engenharia da Computação procurando por oportunidades e co
 
 ### Hi 👋
 I am a computer engineering student looking for opportunities and collaboration on projects.
-- 🔭 I'm currently working on game developer (plus I'm honing my data structures and algorithms skills regularly).
-- 🌱 I'm currently learning front-end web development using Angular framework.
+- 🔭 I'm currently working on web development (plus I'm honing my data structures and algorithms skills regularly).
+- 🌱 I'm currently learning front-end web development using React framework with Next JS.
 - 🤝 I’m looking to collaborate on data science and front-end web development projects. 
 
 <br>
