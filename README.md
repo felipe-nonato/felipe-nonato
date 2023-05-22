@@ -3,7 +3,7 @@
 
 ### Olá 👋
 Sou um estudante de Engenharia da Computação procurando por oportunidades e colaborção em projetos.
-- 🔭 Atualmente estou trabalhando em desenvolvimento web (além disso, estou aprimorando minhas habilidades de estruturas de dados e algoritmos regularmente).
+- 🔭 Atualmente estou trabalhando com desenvolvimento web na empresa Redepharma (além disso, estou aprimorando minhas habilidades de estruturas de dados e algoritmos regularmente).
 - 🌱 Atualmente estou aprendendo desenvolvimento web front-end usando o framework React com Next JS.
 - 🤝 Estou procurando colaborar em projetos de data science e desenvolvimento web front-end. 
 
