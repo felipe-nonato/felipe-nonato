@@ -6,13 +6,13 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipe-nonato&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipe-nonato&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipe-nonato&show_icons=true&count_private=true&hide_border=true&title_color=c9a3e2&icon_color=c9a3e2&text_color=c9a3e2&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipe-nonato&show_icons=true&count_private=true&hide_border=true&title_color=c9a3e2&icon_color=c9a3e2&text_color=c9a3e2&bg_color=0d1117" alt="Felipe Nonato github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-nonato&layout=compact&hide_border=true&title_color=c9a3e2&text_color=c9a3e2&bg_color=0d1117" />
 </div>
 
