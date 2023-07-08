@@ -1,40 +1,46 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9a3e2&height=120&section=header"/>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9a3e2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luis+Felipe;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Computer+Engineering;Be+Welcome!+:%29;OLA,+Meu+nome+é+Luis+Felipe;Eu+tenho+20+anos;Eu+sou+Brasileiro;Estou+me+formando+Engeheiro+de+Computação;Seja+Bem+Vindo+:%29)](https://git.io/typing-svg)
 
-### Olá 👋
-Sou um estudante de Engenharia da Computação procurando por oportunidades e colaborção em projetos.
-- 🔭 Atualmente estou trabalhando com desenvolvimento web na empresa Redepharma (além disso, estou aprimorando minhas habilidades de estruturas de dados e algoritmos regularmente).
-- 🌱 Atualmente estou aprendendo desenvolvimento web front-end usando o framework React com Next JS.
-- 🤝 Estou procurando colaborar em projetos de data science e desenvolvimento web front-end. 
-
-<hr>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe-nonato&bg_color=0d1117&color=c9a3e2&line=c9a3e2&point=c9a3e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### Hi 👋
-I am a computer engineering student looking for opportunities and collaboration on projects.
-- 🔭 I'm currently working on web development (plus I'm honing my data structures and algorithms skills regularly).
-- 🌱 I'm currently learning front-end web development using React framework with Next JS.
-- 🤝 I’m looking to collaborate on data science and front-end web development projects. 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=felipe-nonato&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-<br>
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipe-nonato&show_icons=true&count_private=true&hide_border=true&title_color=c9a3e2&icon_color=c9a3e2&text_color=c9a3e2&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-nonato&layout=compact&hide_border=true&title_color=c9a3e2&text_color=c9a3e2&bg_color=0d1117" />
+</div>
+
+
+<div align="center"> 
+<a href="https://instagram.com/lipe__ftn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:felipe.tavares.nonato@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luís-felipe-nonato-840400203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
+
+
+### Studying in this moment:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-  <a href="https://github.com/felipe-nonato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-nonato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-nonato&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br><br>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<br><br>
-  
-<div align="center">
-  <a href="https://www.instagram.com/lipe__ftn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luís-felipe-840400203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipe-nonato}/count.svg" /></p> 
 <br>
-  
-![Snake animation](https://github.com/felipe-nonato/felipe-nonato/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9a3e2&height=120&section=footer"/>
