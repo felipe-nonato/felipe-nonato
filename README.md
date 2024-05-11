@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9a3e2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9a3e2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luis+Felipe;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Computer+Engineering;Be+Welcome!+:%29;OLA,+Meu+nome+é+Luis+Felipe;Eu+tenho+20+anos;Eu+sou+Brasileiro;Estou+me+formando+Engeheiro+de+Computação;Seja+Bem+Vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9a3e2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luis+Felipe;I'm+21+years+old;I'm+from+Brazil;I'm+studying+Computer+Engineering;Be+Welcome!+:%29;OLA,+Meu+nome+é+Luis+Felipe;Eu+tenho+21+anos;Eu+sou+Brasileiro;Estou+me+formando+Engeheiro+de+Computação;Seja+Bem+Vindo+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe-nonato&bg_color=0d1117&color=c9a3e2&line=c9a3e2&point=c9a3e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
