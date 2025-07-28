@@ -17,7 +17,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-nonato&layout=compact&hide_border=true&title_color=c9a3e2&text_color=c9a3e2&bg_color=0d1117" />
 </div>
 
-
 <div align="center"> 
 <a href="https://instagram.com/lipe__ftn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:felipe.tavares.nonato@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -37,7 +36,5 @@
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<br/>
-<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9a3e2&height=120&section=footer"/>
