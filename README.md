@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9a3e2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luis+Felipe;I'm+21+years+old;I'm+from+Brazil;I'm+studying+Computer+Engineering;Be+Welcome!+:%29;OLA,+Meu+nome+é+Luis+Felipe;Eu+tenho+21+anos;Eu+sou+Brasileiro;Estou+me+formando+Engeheiro+de+Computação;Seja+Bem+Vindo+:%29)](https://git.io/typing-svg)
 
 
+<br/>
+<br/>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipe-nonato&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -34,11 +37,7 @@
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{felipe-nonato}/count.svg" /></p> 
-<br>
-</div>
-
+<br/>
+<br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9a3e2&height=120&section=footer"/>
