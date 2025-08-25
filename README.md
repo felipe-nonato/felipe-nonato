@@ -39,6 +39,7 @@ I turn complexity into clean architecture — and ideas into working software.
 
 📫 **Reach Me**
 **Email**: felipe.tavares.nonato@gmail.com  
+**Portfolio**: www.felipenonato.com  
 **Phone**: +55 83 98153-4682  
 
 ---
